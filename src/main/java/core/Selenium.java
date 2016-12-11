@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Selenium {
        public String[][] a2d() throws IOException {
 
-              String csvFile = "./src/main/resources/Title_Validation.csv";
+              String csvFile = "./src/main/olga/Title_Validation.csv";
               BufferedReader br = null;
               String line = null;
               String[] column = null;
